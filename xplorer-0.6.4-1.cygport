@@ -1,0 +1,3 @@
+DESCRIPTION="X11 file explorer"
+HOMEPAGE="http://cxplorer.sourceforge.net/"
+SRC_URI="mirror://sourceforge/cxplorer/${P}.tar.gz"
